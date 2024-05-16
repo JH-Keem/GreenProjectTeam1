@@ -6,4 +6,4 @@
 1. npm i로 node_modules 설치가 필요합니다.
 
 ## Backend
-1. application.properties 파일의 내용은 DB 스키마 이름과 비밀번호, SMTP와 OAuth 사용을 위한 비밀키가 포함되어있어, 따로 보내드린 구글 드라이브 링크의 내용을 복사 붙여넣기 해주셔야 합니다.
+1. src/main/resources/내부의 application.properties, application-oauth.properties 파일들의 내용은 DB 스키마 이름과 비밀번호, SMTP와 OAuth 사용을 위한 비밀키가 포함되어있어, 따로 보내드린 구글 드라이브 링크의 내용을 복사 붙여넣기 해주셔야 합니다.
